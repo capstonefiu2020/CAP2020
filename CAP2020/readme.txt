@@ -11,4 +11,6 @@ git add "...filepath to...CAP2020"
 git commit -m "title/description of commit"
 git remote add origin https://github.com/capstonefiu2020/CAP2020.git
 git push -u origin master
+OR 
+git push -f origin master
 -hand type the credentials (copy/paste does not seem to work)

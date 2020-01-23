@@ -1,3 +1,0 @@
-region=us-east-2
-AWSAccessKeyId=AKIAXMR4GHYL6P6RIC7V
-AWSSecretKey=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
